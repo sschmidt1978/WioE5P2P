@@ -1,0 +1,56 @@
+#######################################
+# Datatypes and Classes (KEYWORD1)
+#######################################
+WioE5P2P	KEYWORD1
+WioDataType	KEYWORD1
+WioSpreadingFactor	KEYWORD1
+WioTxPower	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+send8	KEYWORD2
+send16	KEYWORD2
+send32	KEYWORD2
+sendFloat	KEYWORD2
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+setAutoLowPower	KEYWORD2
+startReceive	KEYWORD2
+available	KEYWORD2
+getLastSensorId	KEYWORD2
+getLastDataType	KEYWORD2
+getLastPayloadLength	KEYWORD2
+getLastValue	KEYWORD2
+getLastFloat	KEYWORD2
+getLastRssi	KEYWORD2
+getLastSnr	KEYWORD2
+isAlive	KEYWORD2
+getTimeSinceLastSeen	KEYWORD2
+resetSensorTracker	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TYPE_UNKNOWN	LITERAL1
+TYPE_INT8	LITERAL1
+TYPE_INT16	LITERAL1
+TYPE_INT32	LITERAL1
+TYPE_FLOAT	LITERAL1
+WIO_SF7	LITERAL1
+WIO_SF8	LITERAL1
+WIO_SF9	LITERAL1
+WIO_SF10	LITERAL1
+WIO_SF11	LITERAL1
+WIO_SF12	LITERAL1
+WIO_PWR_MIN	LITERAL1
+WIO_PWR_2DBM	LITERAL1
+WIO_PWR_5DBM	LITERAL1
+WIO_PWR_8DBM	LITERAL1
+WIO_PWR_10DBM	LITERAL1
+WIO_PWR_14DBM	LITERAL1
+WIO_PWR_17DBM	LITERAL1
+WIO_PWR_20DBM	LITERAL1
+WIO_PWR_22DBM	LITERAL1
+
